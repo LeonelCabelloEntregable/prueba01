@@ -7,8 +7,8 @@ function App() {
     <>
       
       <Titulo titulo ={'hola'}/>
-      <Titulo titulo ={'hola'}/>
-      <Titulo titulo ={'hola'}/>
+      <Titulo titulo ={'como '}/>
+      <Titulo titulo ={'estas'}/>
 
       
     </>
